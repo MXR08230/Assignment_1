@@ -10,7 +10,7 @@ print("sorted_ages:",ages)
 minimum=min(ages)
 maximum=max(ages)
 print("Minimum age is:", minimum)
-print("maximum age is:",maximum)
+print("Maximum age is:",maximum)
 
 #adding minimum and maximum values to list
 
