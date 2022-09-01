@@ -1,1 +1,1 @@
-print('manoj')fsgvdfvszdf
+print('manoj')
