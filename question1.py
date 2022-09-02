@@ -1,7 +1,7 @@
 import statistics
 
 ages=[19,22,19,24,20,25,26,24,25,24]
-print("ages_beforesort:", ages)
+print("ages:", ages)
 #sorting the list
 sortedlist = ages.sort()
 #printing sorted list of ages
