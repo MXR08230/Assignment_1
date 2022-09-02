@@ -1,4 +1,5 @@
 import math
+from turtle import clear
 
 N = int(input("Enter No.of students:"))
 print("Enter", N, "students weights")
